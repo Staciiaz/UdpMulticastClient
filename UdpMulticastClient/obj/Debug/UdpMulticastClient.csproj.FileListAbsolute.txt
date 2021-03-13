@@ -1,0 +1,10 @@
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\bin\Debug\UdpMulticastClient.exe.config
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\bin\Debug\UdpMulticastClient.exe
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\bin\Debug\UdpMulticastClient.pdb
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\obj\Debug\UdpMulticastClient.csprojAssemblyReference.cache
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\obj\Debug\UdpMulticastClient.Form1.resources
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\obj\Debug\UdpMulticastClient.Properties.Resources.resources
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\obj\Debug\UdpMulticastClient.csproj.GenerateResource.cache
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\obj\Debug\UdpMulticastClient.csproj.CoreCompileInputs.cache
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\obj\Debug\UdpMulticastClient.exe
+E:\Projects\Radar TRML\UdpMulticastClient\UdpMulticastClient\UdpMulticastClient\obj\Debug\UdpMulticastClient.pdb
